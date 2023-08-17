@@ -36,9 +36,9 @@ String res = "";
 bool new_data = 0;
 int led = 0;
 
-#define SMS_TARGET  "+917339495854"
-char* msg = "+cmt: \"+917339495854\"";
-char* ring = "+clip: \"+917339495854\"";
+#define SMS_TARGET  "+91xxxxxxxxxx"
+char* msg = "+cmt: \"+91xxxxxxxxxx\"";
+char* ring = "+clip: \"+91xxxxxxxxxx\"";
 
 char* value1 = "led on";
 char* value0 = "led off";
